@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlangApiRest", "SlangApiRest\SlangApiRest.csproj", "{D4D95AFD-8680-4472-9ED9-121C96A55ADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlangModels", "SlangModels\SlangModels.csproj", "{26E30D9F-A663-47DA-8893-C25DB953EE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4D95AFD-8680-4472-9ED9-121C96A55ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D95AFD-8680-4472-9ED9-121C96A55ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D95AFD-8680-4472-9ED9-121C96A55ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D95AFD-8680-4472-9ED9-121C96A55ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E30D9F-A663-47DA-8893-C25DB953EE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E30D9F-A663-47DA-8893-C25DB953EE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E30D9F-A663-47DA-8893-C25DB953EE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E30D9F-A663-47DA-8893-C25DB953EE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50273D42-DBF9-4652-8226-69FD2037C8AF}
+	EndGlobalSection
+EndGlobal
